@@ -1,0 +1,13 @@
+body{
+  background-color: grey;
+}
+html {
+  font-family: Arial;
+  color: white;
+}
+.chart{
+  color: white;
+}
+svg {
+  color: white;
+}
